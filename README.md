@@ -2,7 +2,7 @@
 <h3 align="center">I Am Software development</h3>
 
 Feel free to checkout my [portfolio](https://saulpaulus.netlify.app/) website!
-- 🏢 Software Engineer (Full Stack) PT. Bringin Gigantara, in Jakarta, Indonesia
+- 🏢 Software Developer (Full Stack) PT. Bringin Gigantara, in Jakarta, Indonesia
 - 🧰 I build with: `Python` `Php`, `JavaScript`, `Nuxt.js`, `Laravel`, `Tailwind` ...
 
 <h3 align="center">Languages and Tools:</h3>
