@@ -1,7 +1,7 @@
 <h1>Hi there, Am Saul</h1>
 <p>I'm a passionate Software Engineer specializing in building scalable and efficient software solutions. With a strong foundation in software design and problem-solving, I thrive in creating impactful applications.</p>
 <ul>
-  <li>- 🧰 I build with: `Python` `Php`, `JavaScript`, `Nuxt.js`, `Laravel`, `Tailwind` ...</li>
+  <li>I build with: `Python` `Php`, `JavaScript`, `Nuxt.js`, `Laravel`, `Tailwind` ...</li>
 </ul>
 
 
