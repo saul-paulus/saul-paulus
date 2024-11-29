@@ -1,5 +1,7 @@
 # Hi there, Am Saul
-## I Am Software engiree
+Am Software engineer From Indonesia
+## About Me
+I'm a passionate Software Engineer specializing in building scalable and efficient software solutions. With a strong foundation in software design and problem-solving, I thrive in creating impactful applications.
 - 🏢 Software Developer (Full Stack) PT. Bringin Gigantara, in Jakarta, Indonesia
 - 🧰 I build with: `Python` `Php`, `JavaScript`, `Nuxt.js`, `Laravel`, `Tailwind` ...
 
