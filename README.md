@@ -1,4 +1,4 @@
-<h1>Hi there, Am Saul</h1>
+<h1>Hi ![Hi Icon](https://github.com/twitter/twemoji/blob/master/assets/72x72/1f44b.png?raw=true) Hi! there, Am Saul</h1>
 <p>I'm a passionate Software Engineer specializing in building scalable and efficient software solutions. With a strong foundation in software design and problem-solving, I thrive in creating impactful applications.</p>
 
 ## 📫 Found me at :
@@ -13,6 +13,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
+
 ## 🌟 Statistik GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saul-paulus&show_icons=true&theme=radical)
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saul-paulus&show_icons=true&locale=en&layout=compact" alt="saul-paulus" />
+
