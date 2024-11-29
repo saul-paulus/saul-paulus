@@ -20,10 +20,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/username](https://www.linkedin.com/in/saul-paulus-3918b21b1/))
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/username](https://www.instagram.com/saulpaulus.dev/))
 
-
-
-
-
-## 🌟 Statistik GitHub:
+## 🌟 Statistik GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saul-paulus&show_icons=true&theme=radical)
 
