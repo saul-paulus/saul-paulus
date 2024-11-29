@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Saul Paulus</h1>
-<h3 align="center">I Am Software development</h3>
+# Hi there, Am Saul
+## I Am Software engiree
 - 🏢 Software Developer (Full Stack) PT. Bringin Gigantara, in Jakarta, Indonesia
 - 🧰 I build with: `Python` `Php`, `JavaScript`, `Nuxt.js`, `Laravel`, `Tailwind` ...
 
