@@ -1,13 +1,14 @@
-<h1>👋 Hi! Hi there, Am Saul</h1>
+<h1>Hi there, Am Saul</h1>
 <p>I'm a passionate Software Engineer specializing in building scalable and efficient software solutions. With a strong foundation in software design and problem-solving, I thrive in creating impactful applications.</p>
 
-## 📫 Temukan saya di:
+## 📫 Found me at:
 - 🌐 [Website saya](https://saulpaulus.netlify.app/)
 - 🐦 [Twitter](https://x.com/home)
 - 💼 [LinkedIn](https://www.linkedin.com/in/saul-paulus-3918b21b1/)
 - 📷 [Instagram](https://www.instagram.com/saulpaulus.dev/)
 - 🎥 [YouTube](https://www.youtube.com/@saulPaulusIxspx)
 
+<img alt="Dynamic JSON Badge" src="https://img.shields.io/badge/dynamic/json">
 
 <ul>
   <li></li>
