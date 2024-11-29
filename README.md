@@ -6,7 +6,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/username](https://x.com/home))
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/username](https://www.linkedin.com/in/saul-paulus-3918b21b1/))
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/username](https://www.instagram.com/saulpaulus.dev/))
-
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -23,5 +22,5 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saul-paulus&show_icons=true&theme=radical)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-paulus&layout=compact&theme=tokyonight" alt="Top Langs">
 </div>
