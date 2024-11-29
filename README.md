@@ -1,5 +1,5 @@
 <h1>Hi  there, Am Saul</h1>
-<p>I'm a passionate Software Engineer specializing in building scalable and efficient software solutions. With a strong foundation in software design and problem-solving, I thrive in creating impactful applications.</p>
+<p>I am a software engineer focused on web application development with a system stability approach.</p>
 
 [![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://saulpaulus.netlify.app/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@saulPaulusIxspx)
