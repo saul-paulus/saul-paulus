@@ -1,4 +1,4 @@
-<h1>Hi ![Hi Icon](https://github.com/twitter/twemoji/blob/master/assets/72x72/1f44b.png?raw=true) Hi! there, Am Saul</h1>
+<h1>Hi ![Hi Badge](https://img.shields.io/badge/👋-Hi%20there!-brightgreen) Hi! there, Am Saul</h1>
 <p>I'm a passionate Software Engineer specializing in building scalable and efficient software solutions. With a strong foundation in software design and problem-solving, I thrive in creating impactful applications.</p>
 
 ## 📫 Found me at :
