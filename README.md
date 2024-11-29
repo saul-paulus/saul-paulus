@@ -20,7 +20,6 @@
 
 ## 🌟 Statistik GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saul-paulus&show_icons=true&theme=radical)
-
-<div align="center">
+<div align="start">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-paulus&layout=compact&theme=tokyonight" alt="Top Langs">
 </div>
