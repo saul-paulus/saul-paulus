@@ -1,5 +1,6 @@
 <h1>Hi  there, Am Saul</h1>
-![Hi Badge](https://img.shields.io/badge/👋-Hi%20there!-brightgreen) Hi!
+![Hi Badge](https://img.shields.io/badge/👋-Hi%20there!-brightgreen)
+
 <p>I'm a passionate Software Engineer specializing in building scalable and efficient software solutions. With a strong foundation in software design and problem-solving, I thrive in creating impactful applications.</p>
 
 ## 📫 Found me at :
