@@ -23,3 +23,15 @@
 ## 🌟 Statistik GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saul-paulus&show_icons=true&theme=radical)
 
+<div align="center">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://youtube.com/c/yourchannel" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" alt="Top Langs">
+</div>
