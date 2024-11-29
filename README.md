@@ -20,6 +20,12 @@
 - 📷 [Instagram](https://www.instagram.com/saulpaulus.dev/)
 - 🎥 [YouTube](https://www.youtube.com/@saulPaulusIxspx)
 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/username)
+
+
+
 ## 🌟 Statistik GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saul-paulus&show_icons=true&theme=radical)
 
