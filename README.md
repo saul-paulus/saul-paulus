@@ -14,12 +14,11 @@
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 
 ## 📫 Found me at :
-- 🌐 [Website saya](https://saulpaulus.netlify.app/)
-- 🐦 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/username](https://x.com/home))
-- 💼 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/username](https://www.linkedin.com/in/saul-paulus-3918b21b1/))
-- 📷 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/username](https://www.instagram.com/saulpaulus.dev/))
-- 🎥 [YouTube](https://www.youtube.com/@saulPaulusIxspx)
-
+[![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://saulpaulus.netlify.app/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@saulPaulusIxspx)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/username](https://x.com/home))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/username](https://www.linkedin.com/in/saul-paulus-3918b21b1/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/username](https://www.instagram.com/saulpaulus.dev/))
 
 
 
