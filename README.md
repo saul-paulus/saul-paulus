@@ -25,8 +25,8 @@ I am a **Software Engineer** specializing in building reliable, high-performance
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saul-paulus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-paulus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=saul-paulus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Saul's GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=saul-paulus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
