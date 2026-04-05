@@ -21,10 +21,11 @@ I am a **Software Engineer** specializing in building reliable, high-performance
 
 ### 🚀 Featured Projects
 
-| Project                                                                      | Description                                                                  | Tech Stack            | Status        |
-| :--------------------------------------------------------------------------- | :--------------------------------------------------------------------------- | :-------------------- | :------------ |
-| **[Vue Datatables Flex](https://github.com/saul-paulus/vue-datatable-flex)** | High-performance, SEO-optimized, and SSR-friendly datatable for Nuxt 3/4.    | Vue, Nuxt, TypeScript | 🚀 Active     |
-| **[Rpl API Controller](https://github.com/saul-paulus/rpl-api-controller)**  | Professional-grade PHP/Laravel API architecture with system stability focus. | Laravel, PHP, MySQL   | ✅ Production |
+| Project                                                                      | Description                                                                                 | Tech Stack                                                  | Status        |
+| :--------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------ | :---------------------------------------------------------- | :------------ |
+| **[Vue Datatables Flex](https://github.com/saul-paulus/vue-datatable-flex)** | High-performance, SEO-optimized, and SSR-friendly datatable for Nuxt 3/4.                   | Vue, Nuxt, TypeScript                                       | 🚀 Active     |
+| **[Module Generator](https://github.com/saul-paulus/module-generator)**      | Professional-grade PHP/Laravel API architecture with clean architecture focus.              | Clean Architecture                                          | ✅ Production |
+| **[Nodejs Api App V1](https://github.com/saul-paulus/nodejs-api-app-v1)**    | High-performance, Professional-grade Nodejs API architecture with clean architecture focus. | Clean Architecture, Nodejs, Express, PostgreSQL, TypeScript | ✅ Production |
 
 ---
 
@@ -44,7 +45,6 @@ I am a **Software Engineer** specializing in building reliable, high-performance
 
 <p align="center">
   <img src="https://github-readme-stats-one.vercel.app/api?username=saul-paulus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Saul's GitHub Stats" />
-  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=saul-paulus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
