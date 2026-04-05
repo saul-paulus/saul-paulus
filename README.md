@@ -1,36 +1,44 @@
 # 👋 Hi, I'm Saul Paulus
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saul-paulus&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Saul's Trophies" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Application+Expert;System+Stability+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 ### 👨‍💻 About Me
-
 I am a **Software Engineer** specializing in building reliable, high-performance web applications. My core philosophy centers on a **system stability approach**, ensuring that every line of code contributes to a secure and scalable infrastructure.
 
-- 🔭 I’m currently working on **Vue Datatables Flex** and production-grade PHP/Go systems.
-- 🌱 I’m currently sharpening my skills in **distributed systems** and **cloud-native architecture**.
+- 🔭 I’m currently building **[Vue Datatables Flex](https://github.com/saul-paulus/vue-datatables-flex)** — a high-performance, SSR-ready datatable for Nuxt.
+- 🌱 I’m currently deepening my expertise in **distributed systems** and **cloud-native architecture**.
 - 💬 Ask me about **Laravel**, **Go**, **RabbitMQ**, or **Nuxt.js**.
 - 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/saul-paulus-3918b21b1/) | [Website](https://saulpaulus.netlify.app/)
 
 ---
 
+### 🚀 Featured Projects
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **[Vue Datatables Flex](https://github.com/saul-paulus/vue-datatables-flex)** | High-performance, SEO-optimized, and SSR-friendly datatable for Nuxt 3/4. | Vue, Nuxt, TypeScript | 🚀 Active |
+| **[Rpl API Controller](https://github.com/saul-paulus/saul-paulus)** | Professional-grade PHP/Laravel API architecture with system stability focus. | Laravel, PHP, MySQL | ✅ Production |
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
-#### 🚀 Languages & Frameworks
-
+#### 💻 Languages & Frameworks
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,php,nodejs,laravel,vue,nuxt&theme=dark)](https://skillicons.dev)
 
 #### ⚙️ Infrastructure & Databases
-
 [![My Skills](https://skillicons.dev/icons?i=rabbitmq,nginx,apache,mysql,redis,docker,linux&theme=dark)](https://skillicons.dev)
 
 ---
 
 ### 📊 GitHub Statistics
-
 <p align="center">
   <img src="https://github-readme-stats-one.vercel.app/api?username=saul-paulus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="Saul's GitHub Stats" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=saul-paulus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -40,7 +48,6 @@ I am a **Software Engineer** specializing in building reliable, high-performance
 ---
 
 ### 🤝 Connect with Me
-
 <p align="left">
   <a href="https://saulpaulus.netlify.app/"><img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/saul-paulus-3918b21b1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
