@@ -1,27 +1,48 @@
-# 👋 Hiii Saul here
-<p>I am a software engineer focused on web application development with a system stability approach.</p>
+# 👋 Hi, I'm Saul Paulus
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Application+Expert;System+Stability+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+</p>
 
-[![Website](https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white)](https://saulpaulus.netlify.app/)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@saulPaulusIxspx)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)]([https://twitter.com/username](https://x.com/home))
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/username](https://www.linkedin.com/in/saul-paulus-3918b21b1/))
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/username](https://www.instagram.com/saulpaulus.dev/))
+### 👨‍💻 About Me
+I am a **Software Engineer** specializing in building reliable, high-performance web applications. My core philosophy centers on a **system stability approach**, ensuring that every line of code contributes to a secure and scalable infrastructure.
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=flat-square&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=nodedotjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600.svg?style=flat-square&logo=rabbitmq&logoColor=white)
-![Apache](https://img.shields.io/badge/Apache-%23D22128.svg?style=flat-square&logo=apache&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
+- 🔭 I’m currently working on **Vue Datatables Flex** and production-grade PHP/Go systems.
+- 🌱 I’m currently sharpening my skills in **distributed systems** and **cloud-native architecture**.
+- 💬 Ask me about **Laravel**, **Go**, **RabbitMQ**, or **Nuxt.js**.
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/saul-paulus-3918b21b1/) | [Website](https://saulpaulus.netlify.app/)
 
-## 🌟 Statistik GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saul-paulus&show_icons=true&theme=radical)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-paulus&layout=compact&theme=tokyonight" alt="Top Langs">
+---
+
+### 🛠️ Tech Stack & Tools
+
+#### 🚀 Languages & Frameworks
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,go,php,nodejs,laravel,vue,nuxt&theme=dark)](https://skillicons.dev)
+
+#### ⚙️ Infrastructure & Databases
+[![My Skills](https://skillicons.dev/icons?i=rabbitmq,nginx,apache,mysql,redis,docker,linux&theme=dark)](https://skillicons.dev)
+
+---
+
+### 📊 GitHub Statistics
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saul-paulus&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Saul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-paulus&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saul-paulus&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+<p align="left">
+  <a href="https://saulpaulus.netlify.app/"><img src="https://img.shields.io/badge/Website-%23000000.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/saul-paulus-3918b21b1/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/saulpaulus.dev/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.youtube.com/@saulPaulusIxspx"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://x.com/home"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
 
 
 
