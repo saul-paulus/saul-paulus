@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Saul Paulus
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Application+Expert;System+Stability+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
+</p>
+
 ### 👨‍💻 About Me
 
 I am a **Software Engineer** specializing in building reliable, high-performance web applications. My core philosophy centers on a **system stability approach**, ensuring that every line of code contributes to a secure and scalable infrastructure.
@@ -37,10 +41,6 @@ I am a **Software Engineer** specializing in building reliable, high-performance
 
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=saul-paulus&theme=tokyonight&no-bg=true&no-frame=true&margin-w=15" alt="Saul's Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Application+Expert;System+Stability+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 <p align="center">
