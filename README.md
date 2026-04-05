@@ -4,8 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00ADB5&center=true&vCenter=true&width=500&lines=Software+Engineer;Web+Application+Expert;System+Stability+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
-### 👨‍💻 About Me
-
 I am a **Software Engineer** specializing in building reliable, high-performance web applications. My core philosophy centers on a **system stability approach**, ensuring that every line of code contributes to a secure and scalable infrastructure.
 
 - 🔭 I’m currently building **[Vue Datatables Flex](https://github.com/saul-paulus/vue-datatables-flex)** — a high-performance, SSR-ready datatable for Nuxt.
