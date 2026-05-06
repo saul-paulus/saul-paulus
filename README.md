@@ -24,7 +24,6 @@
 
 </div>
 
----
 
 ## About Me
 
@@ -42,7 +41,6 @@ I build scalable and maintainable web applications focused on:
 - ⚡ Exploring distributed systems & cloud-native architecture
 - 🛠 Developing production-grade backend systems with Laravel, Go, and Node.js
 
----
 
 ## Featured Projects
 
@@ -52,7 +50,6 @@ High-performance SSR-ready datatable built for Nuxt applications.
 
 **Stack:** Vue • Nuxt • TypeScript
 
----
 
 ### 🧩 Module Generator
 
@@ -60,7 +57,6 @@ Laravel module generator using clean architecture principles.
 
 **Stack:** Laravel • PHP • Clean Architecture
 
----
 
 ### ⚙️ Node.js API App V1
 
@@ -68,7 +64,6 @@ Scalable and maintainable Node.js API starter architecture.
 
 **Stack:** Node.js • Express • PostgreSQL • TypeScript
 
----
 
 ## Tech Stack
 
@@ -84,7 +79,6 @@ Scalable and maintainable Node.js API starter architecture.
   <img src="https://skillicons.dev/icons?i=docker,redis,rabbitmq,mysql,nginx,linux,git&theme=dark" />
 </p>
 
----
 
 ## GitHub Stats
 
@@ -108,8 +102,6 @@ Scalable and maintainable Node.js API starter architecture.
 ## Philosophy
 
 > Good software is not only about features — it is about reliability, maintainability, and long-term performance.
-
----
 
 <div align="center">
 
