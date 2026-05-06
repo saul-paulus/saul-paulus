@@ -1,4 +1,3 @@
-```md
 <div align="center">
 
 # Saul Paulus
@@ -122,4 +121,3 @@ Currently working on:
 </a>
 
 </div>
-```
