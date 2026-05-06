@@ -4,17 +4,19 @@
 
 ### Software Engineer • Full-Stack Developer • System Architecture Enthusiast
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Clean+Architecture+Advocate;Laravel+%7C+Go+%7C+Nuxt.js+Developer;Focused+on+Performance+and+System+Stability" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://saulpaulus.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+  
   <a href="https://www.linkedin.com/in/saul-paulus-3918b21b1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="https://github.com/saul-paulus">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
@@ -26,19 +28,19 @@
 
 ## About Me
 
-I build scalable and maintainable web applications with a strong focus on:
+I build scalable and maintainable web applications focused on:
 
-- System stability
-- Clean architecture
-- Backend performance
-- Developer experience
-- Scalable infrastructure
+- System Stability
+- Clean Architecture
+- Backend Performance
+- Developer Experience
+- Scalable Infrastructure
 
-Currently working on:
+### Current Focus
 
-- 🚀 **[Vue Datatables Flex](https://github.com/saul-paulus/vue-datatables-flex)** — SSR-ready datatable for Nuxt 3/4
-- ⚡ Exploring distributed systems and cloud-native architecture
-- 🛠 Building production-grade backend systems using Laravel, Go, and Node.js
+- 🚀 Building **[Vue Datatables Flex](https://github.com/saul-paulus/vue-datatables-flex)** — SSR-ready datatable for Nuxt 3/4
+- ⚡ Exploring distributed systems & cloud-native architecture
+- 🛠 Developing production-grade backend systems with Laravel, Go, and Node.js
 
 ---
 
@@ -46,31 +48,25 @@ Currently working on:
 
 ### 🚀 Vue Datatables Flex
 
-> High-performance SSR-ready datatable built for Nuxt applications.
+High-performance SSR-ready datatable built for Nuxt applications.
 
-**Tech Stack:** Vue • Nuxt • TypeScript
-
-🔗 https://github.com/saul-paulus/vue-datatables-flex
+**Stack:** Vue • Nuxt • TypeScript
 
 ---
 
 ### 🧩 Module Generator
 
-> Laravel module generator with clean architecture approach for scalable API development.
+Laravel module generator using clean architecture principles.
 
-**Tech Stack:** Laravel • PHP • Clean Architecture
-
-🔗 https://github.com/saul-paulus/module-generator
+**Stack:** Laravel • PHP • Clean Architecture
 
 ---
 
 ### ⚙️ Node.js API App V1
 
-> Production-ready Node.js API architecture with scalability and maintainability in mind.
+Scalable and maintainable Node.js API starter architecture.
 
-**Tech Stack:** Node.js • Express • PostgreSQL • TypeScript
-
-🔗 https://github.com/saul-paulus/nodejs-api-app-v1
+**Stack:** Node.js • Express • PostgreSQL • TypeScript
 
 ---
 
@@ -100,8 +96,7 @@ Currently working on:
 
 </div>
 
-
-## Most Used Languages
+<br />
 
 <div align="center">
 
@@ -109,16 +104,17 @@ Currently working on:
 
 </div>
 
+---
 
 ## Philosophy
 
-> “Good software is not only about features — it’s about reliability, maintainability, and performance over time.”
+> Good software is not only about features — it is about reliability, maintainability, and long-term performance.
 
 ---
 
 <div align="center">
 
-### Let's Connect
+### Connect With Me
 
 <a href="https://www.linkedin.com/in/saul-paulus-3918b21b1/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
