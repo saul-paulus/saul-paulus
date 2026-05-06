@@ -100,7 +100,6 @@ Currently working on:
 
 </div>
 
----
 
 ## Most Used Languages
 
@@ -110,7 +109,6 @@ Currently working on:
 
 </div>
 
----
 
 ## Philosophy
 
