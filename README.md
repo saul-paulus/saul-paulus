@@ -103,7 +103,7 @@ Scalable and maintainable Node.js API starter architecture.
 <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saul-paulus&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
----
+
 
 ## Philosophy
 
