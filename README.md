@@ -95,10 +95,7 @@ Scalable and maintainable Node.js API starter architecture.
 <div align="center">
 
 <!-- <img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=saul-paulus&layout=compact&theme=tokyonight&hide_border=true" /> -->
-<img
-  height="170"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-paulus&layout=compact&langs_count=20&theme=tokyonight&hide_border=true"
-/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saul-paulus&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
 </div>
 
 
