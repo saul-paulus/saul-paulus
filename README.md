@@ -2,7 +2,7 @@
 
 # Saul Paulus
 
-### Software Engineer • Full-Stack Developer • System Architecture Enthusiast
+### Software Engineer || Full-Stack Developer || Software Architecture Enthusiast
 
 <p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00ADB5&center=true&vCenter=true&width=700&lines=Building+Scalable+Web+Applications;Clean+Architecture+Advocate;Laravel+%7C+Go+%7C+Nuxt.js+Developer;Focused+on+Performance+and+System+Stability" />
